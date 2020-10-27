@@ -43,4 +43,3 @@ MEMS microphone and Digital Filter for Sigma-Delta Modulators (DFSDM) practice u
 ## STM Optimization
 
 Comparing C and Assembly languages performances on B-L475E-IOT01A1 by implementing three methods: find maximum value in array, two array element-wise multiplication and standard deviation.
-
